@@ -4,6 +4,8 @@ body{
     font-family: 'Montserrat', sans-serif;
     display: flex;
     width: 1280px;
+    
+   
 }
 
 p {
@@ -18,7 +20,7 @@ p {
 
 h4 {
 
-    color: #000;
+    color: black;
     font-size: 16px;
     font-style: normal;
     font-weight: 700;
@@ -34,15 +36,77 @@ li {
 
 }
 
-.work-experience .subtitle {
-    color: #FB6D3A;
+.approach .subtitle {
+    color: black;
 }
 
 .sidebar {
-    width: 370px;
+	width: 350px;
     background: white;
 }
 
+.rightsidebar {
+	width: 200px;
+    background: white;
+}
+
+
 .main-content {
     width: calc(100% - 370px);
+    background: white;
 }
+
+.article_box {
+  width: 250px;
+  border-style: solid;
+}
+
+.header {
+	background: white;
+	font-size: 90px;		
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
